@@ -1,0 +1,24 @@
+#chicken
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+#chicken-photo
+{
+    width: 30%;
+}
+
+#chicken-photo-big
+{
+    width: 70%;
+}
+
+#icon
+{
+    height: 400px;
+}
